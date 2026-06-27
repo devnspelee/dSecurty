@@ -399,7 +399,7 @@ export default function dSecurty() {
         @keyframes spinSlow {
           to { transform: rotate(360deg); }
         }
-        * { box-sizing: border-box; }
+        * { box-sizing: border-box; margin: 0; padding: 0; } html, body, #root { width: 100%; height: 100%; overflow-x: hidden; }
         button:focus-visible { outline: 2px solid ${DS.accent}; outline-offset: 2px; }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: ${DS.border}; border-radius: 4px; }
