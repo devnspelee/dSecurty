@@ -383,7 +383,7 @@ export default function dSecurty() {
   ];
 
   return (
-    <div style={{ background: DS.bg, minHeight: "100vh", fontFamily: DS.font, color: DS.text, position: "relative" }}>
+    <div style={{ background: DS.bg, minHeight: "100dvh", width: "100%", fontFamily: DS.font, color: DS.text, position: "relative" }}>
       <Snow />
 
       {/* CSS */}
