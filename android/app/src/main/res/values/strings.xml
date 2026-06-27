@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">dSecurty</string>
+    <string name="title_activity_main">dSecurty</string>
+    <string name="package_name">com.devnspelee.dsecurity</string>
+    <string name="custom_url_scheme">com.devnspelee.dsecurity</string>
+</resources>

@@ -1,5 +1,5 @@
 {
-  "appId": "com.dnve.com",
-  "appName": "dsecurty",
-  "webDir": "dist"
+  "appId": "com.devnspelee.dsecurity",
+  "appName": "dSecurty",
+  "webDir": "src"
 }
